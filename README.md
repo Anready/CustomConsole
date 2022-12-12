@@ -59,7 +59,7 @@ _______
 
 # CustomConsole
 
-![image](https://user-images.githubusercontent.com/104269567/205639043-6799e8ff-d17e-4a20-b26f-89457ab22c08.png)
+
 
 + О консоли
 + Как пользоваться
