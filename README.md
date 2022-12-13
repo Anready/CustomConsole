@@ -1,4 +1,4 @@
-##CustomConsole
+# CustomConsole
 
 
 + About the console
@@ -25,7 +25,7 @@ printMyComandList
 Help:
 help
 _____
-##Technical data
+## Technical data
 
 Language - C#
 Version (language) - 4.7.2
@@ -36,7 +36,7 @@ Rights - Anready
 
 ## About the creator
 
-#########################################**Anready**### ########################################
+#########################################**Anready**###########################################
 
 I create bots in Python, I also have my own website, I know a little Java, and I have already written 3 mobile and 2 desktop applications on it.
 
@@ -85,7 +85,7 @@ printMyComandList
 Помощь:
 help
 _____
-##Техничиские данные
+## Техничиские данные
 
 Язык - C#
 Версия (языка) - 4.7.2
