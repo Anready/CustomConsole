@@ -1,0 +1,3 @@
+start  F:/Dont open.txt
+
+stop  F:\BOOTEX.LOG
