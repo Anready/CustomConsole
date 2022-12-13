@@ -1,0 +1,5 @@
+start , F:/Dont open.txt
+stop , F:\BOOTEX.LOG
+cdc , cd C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\bin\Debug
+git i , git init
+git add ,  git add .

@@ -1,0 +1,8 @@
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\bin\Debug\CustomConsole.exe.config
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\bin\Debug\CustomConsole.exe
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\bin\Debug\CustomConsole.pdb
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\obj\Debug\CustomConsole.csproj.AssemblyReference.cache
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\obj\Debug\CustomConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\obj\Debug\CustomConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\obj\Debug\CustomConsole.exe
+C:\Users\Yulia\source\repos\CustomConsole\CustomConsole\obj\Debug\CustomConsole.pdb
