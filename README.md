@@ -28,10 +28,15 @@ _____
 ## Technical data
 
 Language - C#
+
 Version (language) - 4.7.2
+
 Version (application) - 1.0.0
+
 Application Type - Console
-Lines - 120
+
+Lines - 180
+
 Rights - Anready
 
 ## About the creator
@@ -88,10 +93,15 @@ _____
 ## Техничиские данные
 
 Язык - C#
+
 Версия (языка) - 4.7.2
+
 Версия (приложения) - 1.0.0
+
 Тип приложения - Консольное
-Строк - 120 
+
+Строк - 180 
+
 Права - Anready
 
 ## О создателе
